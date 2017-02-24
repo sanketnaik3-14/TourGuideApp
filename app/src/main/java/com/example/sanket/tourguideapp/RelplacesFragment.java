@@ -32,25 +32,25 @@ public class RelplacesFragment extends Fragment {
         final ArrayList<Place> place = new ArrayList<Place>();
 
         place.add(new Place(R.string.haji_details, R.string.haji_timings, R.string.haji_entry, R.string.haji_things,
-                R.string.haji_nearby, "HAJI ALI" ,R.drawable.hajiali));
+                R.string.haji_nearby, getString(R.string.haji_ali) ,R.drawable.hajiali));
 
         place.add(new Place(R.string.maha_details, R.string.maha_timings, R.string.maha_entry, R.string.maha_things,
-                R.string.maha_nearby, "MAHALAXMI TEMPLE" ,R.drawable.mahalaxmitemple));
+                R.string.maha_nearby, getString(R.string.mahalaxmi_temple) ,R.drawable.mahalaxmitemple));
 
         place.add(new Place(R.string.mount_details, R.string.mount_timings, R.string.mount_entry, R.string.mount_things,
-                R.string.mount_nearby, "MOUNT MARY CHURCH" ,R.drawable.mountmary));
+                R.string.mount_nearby, getString(R.string.mount_mary_church) ,R.drawable.mountmary));
 
         place.add(new Place(R.string.isk_details, R.string.isk_timings, R.string.isk_entry, R.string.isk_things,
-                R.string.isk_nearby, "ISKON TEMPLE" ,R.drawable.iskontemple));
+                R.string.isk_nearby, getString(R.string.iskon_temple) ,R.drawable.iskontemple));
 
         place.add(new Place(R.string.sid_details, R.string.sid_timings, R.string.sid_entry, R.string.sid_things,
-                R.string.sid_nearby, "SIDDHI VINAYAK TEMPLE" ,R.drawable.siddhivinayaktemple));
+                R.string.sid_nearby, getString(R.string.siddhivinayak_temple) ,R.drawable.siddhivinayaktemple));
 
         place.add(new Place(R.string.pag_details, R.string.pag_timings, R.string.pag_entry, R.string.pag_things,
-                R.string.pag_nearby, "GLOBAL PAGODA" ,R.drawable.pagoda));
+                R.string.pag_nearby, getString(R.string.global_pagoda) ,R.drawable.pagoda));
 
         place.add(new Place(R.string.ele_details, R.string.ele_timings, R.string.ele_entry, R.string.ele_things,
-                R.string.ele_nearby, "ELEPHANTA CAVES" ,R.drawable.elephantacaves));
+                R.string.ele_nearby, getString(R.string.elephanta_caves) ,R.drawable.elephantacaves));
 
         PlaceAdapter placeAdapter = new PlaceAdapter(getActivity() , place);
 

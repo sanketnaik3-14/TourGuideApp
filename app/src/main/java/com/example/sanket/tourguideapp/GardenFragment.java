@@ -31,16 +31,16 @@ public class GardenFragment extends Fragment {
 
         final ArrayList<Place> place = new ArrayList<Place>();
         place.add(new Place( R.string.hang_details, R.string.hang_things, R.string.hang_timings,
-                R.string.hang_entry, R.string.hang_best_time, R.drawable.hanginggarden, "HANGING GARDEN"));
+                R.string.hang_entry, R.string.hang_best_time, R.drawable.hanginggarden, getString(R.string.hanging_garden)));
 
         place.add(new Place( R.string.kamla_details, R.string.kamla_things, R.string.kamla_timings,
-                R.string.kamla_entry, R.string.kamla_best_time, R.drawable.kamlanehrupark, "KAMLA NEHRU PARK"));
+                R.string.kamla_entry, R.string.kamla_best_time, R.drawable.kamlanehrupark, getString(R.string.kamla_nehru_park)));
 
         place.add(new Place( R.string.jija_details, R.string.jija_things, R.string.jija_timings,
-                R.string.jija_entry, R.string.jija_best_time, R.drawable.jijamataudyan, "JIJA MATA UDYAN"));
+                R.string.jija_entry, R.string.jija_best_time, R.drawable.jijamataudyan, getString(R.string.jija_mata_udyan)));
 
         place.add(new Place( R.string.sgnp_details, R.string.sgnp_things, R.string.sgnp_timings,
-                R.string.sgnp_entry, R.string.sgnp_best_time, R.drawable.sanjaygandhinationalpark, "SANJAY GANDHI NATIONAL PARK"));
+                R.string.sgnp_entry, R.string.sgnp_best_time, R.drawable.sanjaygandhinationalpark, getString(R.string.sgnp)));
 
         PlaceAdapter placeAdapter = new PlaceAdapter(getActivity() , place);
 

@@ -31,16 +31,16 @@ public class ParksFragment extends Fragment {
 
         final ArrayList<Place> place = new ArrayList<Place>();
 
-        place.add(new Place("ESSEL WORLD" ,R.drawable.esselworld ,R.string.essel_details
+        place.add(new Place(getString(R.string.essel_world) ,R.drawable.esselworld ,R.string.essel_details
                 ,R.string.essel_attract ,R.string.essel_timings ,R.string.essel_entry ,R.string.essel_best_time));
 
-        place.add(new Place("WATER KINGDOM" ,R.drawable.waterkingdom ,R.string.king_details
+        place.add(new Place(getString(R.string.water_kingdom) ,R.drawable.waterkingdom ,R.string.king_details
                 ,R.string.king_attract ,R.string.king_timings ,R.string.king_entry ,R.string.king_best_time));
 
-        place.add(new Place("ADLABS IMAGICA" ,R.drawable.imagica ,R.string.imagica_details
+        place.add(new Place(getString(R.string.adlabs_imagica),R.drawable.imagica ,R.string.imagica_details
                 ,R.string.imagica_attract ,R.string.imagica_timings ,R.string.imagica_entry ,R.string.imagica_best_time));
 
-        place.add(new Place("SURAJ WATER PARK" ,R.drawable.surajwaterpark ,R.string.suraj_details
+        place.add(new Place(getString(R.string.suraj_water_park),R.drawable.surajwaterpark ,R.string.suraj_details
                 ,R.string.suraj_attract ,R.string.suraj_timings ,R.string.suraj_entry ,R.string.suraj_best_time));
 
         PlaceAdapter placeAdapter = new PlaceAdapter(getActivity(),place);

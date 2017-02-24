@@ -18,6 +18,30 @@
     <string name="entry_fee">Entry fee</string>
     <string name="attractions">Attractions</string>
 
+    <string name="aksa_beach">AKSA BEACH</string>
+    <string name="juhu_beach">JUHU BEACH</string>
+    <string name="chowpatty_beach">CHOWPATTY BEACH</string>
+    <string name="dadar_beach">DADAR BEACH</string>
+    <string name="madh_beach">MADH BEACH</string>
+    <string name="marve_beach">MARVE BEACH</string>
+
+    <string name="hanging_garden">HANGING GARDEN</string>
+    <string name="kamla_nehru_park">KAMLA NEHRU PARK</string>
+    <string name="jija_mata_udyan">JIJA MATA UDYAN</string>
+    <string name="sgnp">SANJAY GANDHI NATIONAL PARK</string>
+
+    <string name="essel_world">ESSEL WORLD</string>
+    <string name="water_kingdom">WATER KINGDOM</string>
+    <string name="adlabs_imagica">ADLABS IMAGICA</string>
+    <string name="suraj_water_park">SURAJ WATER PARK</string>
+
+    <string name="haji_ali">HAJI ALI</string>
+    <string name="mahalaxmi_temple">MAHALAXMI TEMPLE</string>
+    <string name="mount_mary_church">MOUNT MARY CHURCH</string>
+    <string name="iskon_temple">ISKON TEMPLE</string>
+    <string name="siddhivinayak_temple">SIDDHIVINAYAK TEMPLE</string>
+    <string name="global_pagoda">GLOBAL PAGODA</string>
+    <string name="elephanta_caves">ELEPHANTA CAVES</string>
 
     <string name="aksa_details">
         Aksa beach is one of those beaches in Mumbai with clean sand and less crowd.
