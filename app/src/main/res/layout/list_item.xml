@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/aksa_beach_imageview"
+        android:layout_width="match_parent"
+        android:layout_height="210dp"
+        android:scaleType="centerCrop"
+        android:adjustViewBounds="true"
+        android:background="@drawable/gradient"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="210dp"
+        android:layout_alignBottom="@id/aksa_beach_imageview"
+        android:background="@drawable/gradient" />
+
+    <TextView
+        android:id="@+id/beach_name_textview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:fontFamily="sans-serif"
+        android:textColor="#FFFFFF"
+        android:paddingBottom="8dp"
+        android:layout_alignBottom="@id/aksa_beach_imageview"
+        />
+</RelativeLayout>

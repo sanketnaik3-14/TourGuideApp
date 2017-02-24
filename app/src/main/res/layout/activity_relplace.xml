@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/activity_beach"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="com.example.sanket.tourguideapp.BeachActivity">
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/relplace_imageview"
+                android:layout_width="match_parent"
+                android:layout_height="210dp"
+                android:scaleType="fitXY"
+                tools:src="@drawable/aksa"
+                android:adjustViewBounds="true"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="210dp"
+                android:layout_alignBottom="@id/beach_imageview"
+                android:background="@drawable/gradient"/>
+
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/relplace_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            android:fontFamily="sans-serif"
+            android:gravity="left"
+            android:paddingLeft="16dp"
+            android:paddingTop="16dp"
+            android:paddingBottom="16dp"
+            android:background="@color/colorPrimary"
+
+            />
+
+        <TextView
+            android:id="@+id/park_details_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif"
+            android:paddingTop="8dp"
+            android:paddingLeft="16dp"
+            android:paddingBottom="8dp"
+            android:text="@string/details"
+            android:textSize="18sp"
+            android:textColor="@color/colorPrimaryText"/>
+
+        <TextView
+            android:id="@+id/relplace_details_desc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingBottom="8dp"
+            android:textColor="@color/colorSecondaryText"
+            android:fontFamily="sans-serif"
+            android:elegantTextHeight="true" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif"
+            android:paddingTop="8dp"
+            android:paddingLeft="16dp"
+            android:paddingBottom="8dp"
+            android:text="@string/things_to_do"
+            android:textSize="18sp"
+            android:textColor="@color/colorPrimaryText"/>
+
+        <TextView
+            android:id="@+id/relplace_things_desc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingBottom="8dp"
+            android:textColor="@color/colorSecondaryText"
+            android:fontFamily="sans-serif"
+            android:elegantTextHeight="true" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif"
+            android:paddingTop="8dp"
+            android:paddingLeft="16dp"
+            android:paddingBottom="8dp"
+            android:text="@string/entry_fee"
+            android:textSize="18sp"
+            android:textColor="@color/colorPrimaryText" />
+
+        <TextView
+            android:id="@+id/relplace_entry_desc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingBottom="8dp"
+            android:textColor="@color/colorSecondaryText"
+            android:fontFamily="sans-serif"
+            android:elegantTextHeight="true" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif"
+            android:paddingTop="8dp"
+            android:paddingLeft="16dp"
+            android:paddingBottom="8dp"
+            android:text="@string/near_by_attractions"
+            android:textSize="18sp"
+            android:textColor="@color/colorPrimaryText"/>
+
+        <TextView
+            android:id="@+id/relplace_attract_desc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingBottom="16dp"
+            android:textColor="@color/colorSecondaryText"
+            android:fontFamily="sans-serif"
+            android:elegantTextHeight="true" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif"
+            android:paddingTop="8dp"
+            android:paddingLeft="16dp"
+            android:paddingBottom="8dp"
+            android:text="@string/timings"
+            android:textSize="18sp"
+            android:textColor="@color/colorPrimaryText"/>
+
+        <TextView
+            android:id="@+id/relplace_timing_desc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingBottom="16dp"
+            android:textColor="@color/colorSecondaryText"
+            android:fontFamily="sans-serif"
+            android:elegantTextHeight="true" />
+    </LinearLayout>
+</ScrollView>

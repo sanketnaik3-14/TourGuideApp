@@ -1,0 +1,580 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="category_beaches">BEACHES</string>
+    <string name="category_amusmentparks">PARKS</string>
+    <string name="category_religiousplaces"> RELIGIOUS</string>
+    <string name="category_gardens">GARDENS</string>
+
+    <string name="details">Details</string>
+    <string name="near_by_attractions">Nearby Attractions</string>
+    <string name="activities_to_do">Activities to do</string>
+    <string name="best_time_to_visit">Best time to visit</string>
+    <string name="things_to_do">Things to do</string>
+    <string name="timings">Timings</string>
+    <string name="entry_fee">Entry fee</string>
+    <string name="attractions">Attractions</string>
+
+
+    <string name="aksa_details">
+        Aksa beach is one of those beaches in Mumbai with clean sand and less crowd.
+        There are couple of vendors selling ice candies and some snacks.
+        \n\nDue to its unsafe nature and distance in far suburb
+        this beach is less explored by tourists.</string>
+    <string name="aksa_nearby">
+        Madh/Marve beach.
+        \nEssel World and Water Kingdom.
+        \nNational Park (Borivali).
+        \nInorbit and Infinity malls at Malad Link road.</string>
+    <string name="aksa_activities">
+        Aksa has those sweet moments for people who want to spend sometime in peace and with nature but also within city.
+        \n\nThe shades of coconut trees are blessing in summer, There are resorts near the beach which you can enjoy as well.
+        The view of sunset is breath taking near the sea.
+        \n\nAksa village has small huts which are converted to resturants and hotels, and one can relax and have snacks there.
+    </string>
+    <string name="aksa_best_time">
+        The best time to visit Aksa beach is between the months September and April.
+    </string>
+
+    <string name="juhu_details">
+        This beach is known to be one of the most visited beaches in India and is situated in Ville Parle in Western suburbs of Mumbai.
+        \n\n Juhu beach is also famous amongst Indians for its street food and local delicacies.
+        \n\nWatching the sunset in this wonderful place, guarded by the vast Arabian sea provides a beautiful visual for the eyes.
+    </string>
+    <string name="juhu_nearby">
+        Versova is a nearby attraction from Juhu
+    </string>
+    <string name="juhu_activities">
+        The Street foods such as "Bhel puri" ,"Pani puri" and "Pav Bhaji" are mouth watering delicacies one must try.
+        \n\nOne can also taste cuisines from around the world as well as try local sea food near Juhu Beach.
+        \n\nYoung  and adventerous ones can try activities like horse riding and camel rides.
+    </string>
+    <string name="juhu_best_time">
+        The best time to visit Juhu beach is from months of October to February.
+        \nIt is best to avoid visiting this beach during monsoon season because there can be possibilities of high tides.
+    </string>
+
+    <string name="chow_details">
+        Dadar Chowpatty beach is a small and less crowded rocky beach with little sand around.
+        People come here to enjoy silence,breeze,sunset view and the giant view of Bandra Worli sea Link Bridge.
+        \n\nDadar beach is scenic with couple of attractions frequently visited by locals, walkable distance from shivaji park.
+        \n\nAn awesome view of Bandra Worli sea Link accompanies you along with the sounds and breezes of the ocean
+    </string>
+    <string name="chow_nearby">
+        Bandra Worli Sea Link.
+        \nDadar Market,near station.
+        \nYou can visit Siddhivinayak temple from there.
+    </string>
+    <string name="chow_activities">
+        One can have view of Bandra worli sea link.
+        \nIn north side of beach some refreshment can be found.
+        \nWalkable distance to Shivaji park, where locals frequent.
+    </string>
+    <string name="chow_best_time">
+        The best time to visit Dadar Chowpatty is between the months of September and April.
+    </string>
+
+    <string name="dadar_details">
+        Dadar Chowpatty beach is a small and less crowded rocky beach with little sand around.
+        People come here to enjoy silence,breeze,sunset view and the giant view of Bandra Worli sea Link Bridge.
+        \n\nDadar beach is scenic with couple of attractions frequently visited by locals, walkable distance from shivaji park.
+        \n\nAn awesome view of Bandra Worli sea Link accompanies you along with the sounds and breezes of the ocean
+    </string>
+    <string name="dadar_nearby">
+        Bandra Worli Sea Link.
+        \nDadar Market,near station.
+        \nYou can visit Siddhivinayak temple from there.
+    </string>
+    <string name="dadar_activities">
+        One can have view of Bandra worli sea link.
+        \nIn north side of beach some refreshment can be found.
+        \nWalkable distance to Shivaji park, where locals frequent.
+    </string>
+    <string name="dadar_best_time">
+        he best time to visit Dadar Chowpatty is between the months of September and April.
+    </string>
+
+    <string name="madh_details">
+        The beautiful beach is actually made of cluster of little villages and farmlands situated in the North western coast of Mumbai.
+        \n\nThe shore is surrounded by mangroves which not only add to its scenic beauty,but also seperates the beach from the mainland.
+        \n\nThe Madh Island beach attracts large crowds due to its calm waters and soothing scenery.
+        \n\nThis beach is one of the cleanet one in the state.
+    </string>
+    <string name="madh_nearby">
+        Madh Fort.
+        \n\nErangal
+        \n\nSt Bonaventuren
+    </string>
+    <string name="madh_activities">
+        The Madh island beach is popular venue for shooting movies and Daily local soaps.
+        It is a different experience to watch a live shoot.
+        \n\n"The Retreat" and "The Resort" are the two popular five star hotels near the beach.Tourists can spend time
+        enjoying the magnificent view along side the swimming pool of the resort and pamper themselves a little.
+        \n\nThere is music being played on the beach for people to enjoy.
+        \n\nPeople can explore local fishing communities that are situated close to the seashore.
+    </string>
+    <string name="madh_best_time">
+        Best time to visit this beach is between October and June.At this time of the year there is less humidity
+        and the weather is pleasend.
+    </string>
+
+    <string name="marv_details">
+        Marve beach is located in the Western Suburbs of Malad in Mumbai.
+        \n\nFerry Services to Essel World and Water kingdom theme parks and Manori are available from here.
+        \n\nMarve beach can be reached from Malad railway station, Rickshaws and taxis.
+        \n\nThe beach is not safe for swimming due to its sinking sand.
+    </string>
+    <string name="marv_nearby">
+        Essel World theme park.
+        Gorai Beach:The gorai beach is popular for its beautiful surroundings and villas.Ferries are available at Marve beach to gorai beach.
+    </string>
+    <string name="marv_activities">
+        One will love to explore the sheer scenic beauty of these beaches in the absesnce of the chaotic crowd of vendors.
+        \n\The beach has some very fine cottages built on the sea shore with a beautiful view of the arabian sea.
+        \n\nThese cottages offer utmost luxury and hospitablity and luxury and are definetely tempting for most that see them.
+    </string>
+    <string name="marv_best_time">
+        The Best time to visit this beach is from October to March, as there is less humidity.
+        This beach is near from the residential area and ideal for a morning run or a morning walk.
+    </string>
+
+
+    <string name="essel_details">
+        Essel World is the biggest and one of the first amusment parks in India.
+        \n\nThis amusment park is popular for its colossal infrastructure and several exciting dry and wet rides.
+        \n\nThe best feature of the Essel World Amusment park is that it is open all year round.
+    </string>
+    <string name="essel_attract">
+        There are several high adrenaline fun rides catering to various age groups.
+        Dry rides,Wet rides, a discotheque and a massive food court are some of the many attractions of this park.
+        \n\nAmong all fun activities that can be enjoyed, the ice skating ring,discotheque and bowling alley serve as the prime attractions
+        for people.
+        \n\nThere are also avenues for shopping and food courts for people looking for a holistic experience.
+    </string>
+    <string name="essel_timings">
+        11 am to 7 pm on Weekdays.
+        \n10 am to 7 pm on Weekends.
+    </string>
+    <string name="essel_entry">
+        390 Rupees to 490 Rupees for Children.
+        \n590 Rupees to 790 Rupees for Adults.
+        \n290 Rupees for Senior citizens.
+    </string>
+    <string name="essel_best_time">
+        The best time to visit Essel World is from October to March.
+    </string>
+
+    <string name="king_details">
+        Water Kingdom is known to be Asia\'s biggest water theme park and was established in 1998.
+        \n\nLocated in Gorai,Mumbai,the water park is an extension of Essel World.
+        \n\nApart from the slides ,rides and other fun activities, the water park also has a number of restaurants that promise
+        tourists lip-smacking delights.
+        \n\nWater Kingdom is truly a remarkable place that offers unlimited fun for all who visit the park.
+    </string>
+    <string name="king_attract">
+        "Aquadrome" is a unique feature at the Water Kingdom,where a dance zone of 7000 square feet is set with numerous water sprinklers.
+        \n\nTourists can enjoy dancing to the music while being occasionally sprayed with water from the sprinklers.
+        \n\nThe "Misphisly Hill" has 12 terrifying high adrenaline rides that are extremely popular at the water park.
+        \n\nThe "Drifting River" is a loop of gently flowing water that promises a ton of excitement with slow currents, where
+        people can relax and float.
+        \n\nSome of the other enthralling attractions here include the "juicy jammer","Turbi Terminator","Black Demon" and "Lemon Drops".
+    </string>
+    <string name="king_timings">
+        11 am to 7 pm on Weekdays
+        \n11 am to 7 pm on Weekends
+    </string>
+    <string name="king_entry">
+        590 Rupees for Children.
+        \n890 Rupees for Adults.
+        \n290 Rupees for Senior citizens.
+    </string>
+    <string name="king_best_time">
+        One can visit Water Kingdom throughout the year.
+    </string>
+
+    <string name="imagica_details">
+        Adlabs Imagica is India\'s first and only International Standard Theme park offering fun, action, entertainment, dining, shopping
+        at a single location.
+        \n\nImagica is driven by whole world of fantastical themes to bring Indian families experiences that they have never had befrore
+        \n\nIn every zone you will be immersed in a new theme that will extend through every touch point.
+        \n\nWith 26 attractions and rides and 5 themed restaurants,Imagica is a place where stories come alive.
+    </string>
+    <string name="imagica_attract">
+        Thrill Rides
+        \nFamile Rides
+        \nKiddie Rides
+        \nThemed Attractions
+    </string>
+    <string name="imagica_timings">
+        11 am to 8 pm on Weekdays
+        \n11 am to 9 pm on Weekends
+    </string>
+    <string name="imagica_entry">
+        <b>Weekdays</b>
+        \n1200 Rupees for Children.
+        \n1500 Rupees for Adults.
+        \n1200 Rupees for Senior citizens.
+        \n\n<b>Weekends and Holidays</b>
+        \n1600 Rupees for Children.
+        \n1900 Rupees for Adults.
+        \n1600 Rupees for Senior citizens.
+    </string>
+    <string name="imagica_best_time">
+        The theme park can be visited all year around.
+    </string>
+
+    <string name="suraj_details">
+        Suraj water park is an exciting water recreation paradise guranteeing an enthralling adventure for all those who visit the park.
+        \n\nOne can also find a massive figure of Lord Shiva with river ganga flowing from his mane.
+        \n\nSuraj water park is indeed a perfect destination to relax and connect with nature.
+        \n\nThe water park is a five time Limca Book of Record Holder and is a winner of international as well as national awards.
+    </string>
+    <string name="suraj_attract">
+        "Nanha tal" is a little slide for children and offers a great deal of excitement.
+        \n\nOther fascinating slides like "Ding Dong", "Lakbak and Zabak" and "Sing-a-Song" are star attractions of Suraj Water park.
+        \n\nThe "Crazy River" and "Lazy River" are water areas that emulate the flow of real rivers, where children and adults are pulled
+        by the current, using floats and rubber tubes as protection against the water.
+    </string>
+    <string name="suraj_timings">
+        10 am to 6 pm Weekdays and Weekends
+    </string>
+    <string name="suraj_entry">
+        <b>Weekdays</b>
+        \n500 Rupees for Children.
+        \n650 Rupees for Adults.
+        \n\n<b>Weekends</b>
+        \n600 Rupees for Children.
+        \n800 Rupees for Adults.
+    </string>
+    <string name="suraj_best_time">
+        One can visit Suraj water park all year round.
+    </string>
+
+
+    <string name="haji_details">
+        The Haji Ali Dargah is a historical landmarik in Mumbai, and is also one of the most prestigous Islamic symbols situated in
+        South Mumbai.
+        \n\nThe Haji Ali was built by a wealthy Muslim merchant who became a saint named Haji Ali Shah Bukhari.
+        \n\nPeople from all over the world visit the Haji Ali Dargah irrespective of their case ,religion or creed.
+        \n\nThe Haji Ali Dargah is popular pilgrimage site today and most of the tourist visit the tomb of Pir Haji Ali Shah
+        Bukhari to seek blessings for Wealth,Health, marriage etc
+        \n\nThe Haji Ali Dargah is made of "Makrana" marble that Emperor Shah Jahan used to build the Taj Mahal.
+        \n\nThe Haji Ali Dargah houses two important monuments-tomb of Pir Haji Ali Bukhari and a mosque.
+    </string>
+    <string name="haji_timings">
+        5.30 am to 10 pm Weekdays and Weekends
+    </string>
+    <string name="haji_entry">
+        No entry Fee
+    </string>
+    <string name="haji_things">
+        Apart from visiting the Dargah ,offering prayers and seeking blessings of the saint, there are various other things to do in and
+        around the Dargah.
+        \n\nLocal stalls outside the comples of Haji Ali Dargah will give you the opportunity to indulge in some delicous local cuisines
+        and local specialities such as Kebabs, Chaat,Ice cream,Mughlai Biryani etc.
+        \n\nIf you are an avid shopper the best places would be crawford market and fashion street.
+        \n\nIf you enjoy serenity and happen to be a nature lover, you can decide to unwing at the beach at Mahim Bay.
+    </string>
+    <string name="haji_nearby">
+        Worli Sea Link
+        \nBreach Candy
+        \nNana Chowk
+        \nMahalakshmi Race Course stadium
+    </string>
+
+    <string name="maha_details">
+        Mahalaxmi Temple is an ancient temple dedicated to honor "Godess Mahalaxmi" who is also known as the "Godess of Wealth".
+        \n\nA large number of believers throng this temple on Fridays.
+        \n\nDuring the days of Navratri\'s festival thousands of devotees flock this shrine to witness the celebrations.
+        \n\nIdol of Godess Mahalaxmi is decorated elegantly with gold bangles,pearl necklaces,nose studs and flowers etc.
+        \n\nOne can find the three idols of Godess Mahalaxmi ,Godess Mahakali and Godess Saraswati places inside the Mahalaxmi Temple.
+    </string>
+    <string name="maha_timings">
+        6 am to 10 pm Weekdays and Weekends
+    </string>
+    <string name="maha_entry">
+        No entry Fee
+    </string>
+    <string name="maha_things">
+        One can visit the Mahalaxmi Temple during Navratri to witness the glorious destive celebrations.
+        \n\nDevotees can offer coconuts,sweets,flowers etc to honor the Godess during this hold ocassion.
+        \n\nOne can also shop here as there are plenty of stalls selling flowers,sweets and religious relics withing the temple complex.
+
+    </string>
+    <string name="maha_nearby">
+        The Atria Mall located in Worli is very close to Mahalaxmi temple and is an amazing place to visit, especially if you love
+        Shopping.
+        \n\nThe Heera Panna Shopping Center is one of the most popular shopping areas in Mumbai and is sited close to the temple.
+        \n\nOne can also visit the Haji Ali Dargah which is another popular tourist destination.
+    </string>
+
+    <string name="mount_details">
+        Mount Mary Church is Roman Catholic Church, dedicated to Virgin Mary,situated in Mumbai.
+        \n\nWhat makes this church more beautiful is that it is sited on top of a hill known as Sunderban Bandra
+        which overlooks the mighty Arabian sea
+        \n\nIt is believed that the church has unbelievable healing powers and for this reason, the church is herded by devotees
+        every day.
+        \n\nThe Bandra Fair or the "Feast of Mount Mary" is a week long celebration held every September at the Mound Mary church.
+    </string>
+    <string name="mount_timings">
+        <b>Monday to Saturday</b>
+        \n6 am to 1 pm
+        \n2 pm to 8 pm
+        \n\n<b>Sunday</b>
+        \n6 am to 8 pm
+    </string>
+    <string name="mount_entry">
+        No entry Fee
+    </string>
+    <string name="mount_things">
+        The week of the "Bandra Fair" or the "Feast of Mount Mary", which is held in September ,is a perfect time to visit Mount Mary Church
+        as it is completely decorated.
+        \n\nOne can shop for religous artifacts innovatively shaped candles,wax figures of virgin mary or even buy Goan sweets from
+        various stalls outside the church.
+        \n\nOne can get a spectacular view of sunsets from this church.
+    </string>
+    <string name="mount_nearby">
+        "Father Agnel" is another church sited on Carter Road, close to Mount Mary Church.
+        \n\nThe famous Jogger\'s park is also situated in Bandra and is a must visit for all tourists.
+        \n\nYou can also explore Linking road, which is perfect flea market for shopping.
+    </string>
+
+    <string name="isk_details">
+        International Society for Krishna Conciousness, also popularly known as the Hare Krishna movement is a spritual society founded
+        by his Divine Grace A.C Bhaktivedanta Swami Prabhupada in July 1966 in New York.
+        \n\nThis temple, also known as the "Hare Rama Hare Krishna temple" and "Radha Rasabihariji" is dedicated to Lord Krishna" and was built by the ISKON Foundation.
+        \n\nThe temple is embellished with various paintings and statues within its interiors, making the temple look all the more mesmerizing.
+        \n\nThe temple is an apt spot for meditation and prayers especially for the people who seek to increase ones spritiual knowledge and add on to their intellectual development.
+        \n\nThe aim of ISKON is to acquiant all people of world with universal principles of self-realization and good conciousness so that they may derive the highest benefit of spritiual understanding ,unity and peace.
+    </string>
+    <string name="isk_timings">
+        <b>"Darshans"(prayers) timings are as follows</b>
+        \n\n4.30 am Mangala Aarti.
+        \n5.30 am   Tulsi puja.
+        \n7.15 am   Sringar darshan
+        \n7.30 am   Guru puja
+        \n8.00 am   Bhagavatam discourse
+        \n0.30 pm   Raj Bhoga Aarti
+        \n4.30 pm   Usthapana Aarti
+        \n7.00 pm   Sahdhya Aarti
+        \n7.30 pm   Bhagvad gita discourse
+        \n8.30 pm   Shayana Aarti
+        \n\n<b>Temple will be closed between</b>
+        \n1.00 pm to 4.30 pm
+        \n9.00 pm to 4.30 am
+    </string>
+    <string name="isk_entry">
+        No entry Fee
+    </string>
+    <string name="isk_things">
+        Attend the various temple activities chant hymns and meditate.
+        \n\nOne can witness and be part of the revelries,chanting the "Mahamantra" inside the temple.Apart from this the temple
+        conducts prayers,"bhajans" every evening.
+        \n\nParticipate in various spritual, cultural and learning activities. These activities are held within the temple and
+        one can either observe or participate in those activities and get knowledge about the vedas.
+        \n\nEnjoying celebrations and festive activities during "Janmashtami" which is an important day at ISKON temple.
+    </string>
+    <string name="isk_nearby">
+        Juhu Beach is right next to the temple and is a perfect get away from the busy city life.
+        \nChowpatty Beach
+    </string>
+
+    <string name="sid_details">
+        Siddhivinayan Temple is a standing testament of beauty and architecture.
+        \n\nThis ancient temple was constructed in 1801 and is dedicated to the elephant=head deity of Hinduism,"Lord Ganesh".
+        \n\nTuesday is considered to be the most important day for "Puja" and "Darshan" at this temple.
+        \n\nWhen one visits this place, one cannot help but admire the temple\'s ancient style of architecture and its many features.
+        \n\nThe idol of Lord Ganesha is sculpted from a single black stone.
+        \n\nAn elegant masterpiece with a unique design, the Siddhivinayak Temple is a hotspot for tourists who visit Mumbai.
+    </string>
+    <string name="sid_timings">
+        5.30 am to 10 pm Weekdays and Weekends
+    </string>
+    <string name="sid_entry">
+        No Entry Fee
+    </string>
+    <string name="sid_things">
+        Phool Gali is a street filled with various stalls that leads towards Siddhivinayak Temple.
+        \n\nThe shopkeepers on this street sell fresh flowers, sweets,coconuts and many other "puja" accessories which one can buy on their
+        way to the temple for offering to the lord.
+        \n\nAs Tuesday is considered to be a special day for Lord Ganesh devotees,"Aartis" are performed inside the temple which is flocked
+        by devout worshippers.
+        \n\nDuring "Sankashti Chaturthi" and "Angaraki" , a large number of devotees gather to attend the special events held within
+        this temple.
+    </string>
+    <string name="sid_nearby">
+        Worli sea Link
+        \nShivaji Park
+    </string>
+
+    <string name="pag_details">
+        The magnificent golden Global Pagoda is the highlight at one of the Top 5 Vipassana Meditation centers in India.
+        \n\nIts the world\'s largest stone dome built without any supporting pillars.
+        \n\nThe dome is approximately 29 meters high, twice the size of previously largest monument of its kind in Bijapur,India.
+        \n\nThere\'s also an art gallery showing the life and teachings of lord Buddha.
+    </string>
+    <string name="pag_timings">
+        9 am to 7 pm Weekdays and Weekends
+    </string>
+    <string name="pag_entry">
+        No entry Fee
+    </string>
+    <string name="pag_things">
+        One can visit Painting Gallery which depicts stories of people benefitted from Vipassana practive in Buddhas time.
+        \n\nVisit the Buddha Statue to honor Buddha as a great spritual scientish who taught Vipassana and nature based
+        teachings for benefit of Humanity.
+        \n\nOne can also visit the food court for refreshment needs and visitors and Burmese Murals for Culture and art
+        enthusiast to learn about Burmese customs.
+    </string>
+    <string name="pag_nearby">
+        Essel World
+        \nGorai Beach
+    </string>
+
+    <string name="ele_details">
+        Elephanta caves lie just off the coast of the Arabian Sea, situated at a 10 km radius from the bustling metropolis.
+        \n\nElephanta Caves are perfect expression of archaic indian art associated to the cult of Lord Shiva.
+        \n\nThe island on which the caves are built was originally known as Gharapuri, and the Portugese retitled it as ELphanta
+        Island when they discovered a large stone structure of an elephant on the Island.
+        \n\nThe temple was primarily built for the worship of Lord Shiva and "Shivaism".
+        \n\nThe Elephanta island is a quiet and picturesque island with green foilage and harmless primates scanpering about.
+    </string>
+    <string name="ele_timings">
+        9 am to 5 pm Tuesday to Sunday
+        \n Monday closed
+
+    </string>
+    <string name="ele_entry">
+        10 Rupees per person (Indian)
+        \n250 Rupees per person (Non Indian)
+    </string>
+    <string name="ele_things">
+        A paradise for women, this little market offers sculptures made of marble, jewellery, clothes ,paintings and many
+        other local arts and wood work.
+        \n\nIf you are interested in locan indian Food, an MTDC run resort offers a find spread at a reasonable cost.
+        \n\nOne can also enjoy the scenic beauty of this Island.
+    </string>
+    <string name="ele_nearby">
+        Gateway of India
+    </string>
+
+
+    <string name="hang_details">
+        The Hanging Gardens id dedicated to its barrister Pherozesha Mehta,which is why these gardens are also known as pherozesha
+        Mehta Garden.
+        \n\nThis reknowned garden located on the Malbar Hill is known for its splendig green vegetation and animal shaped hedges, which
+        is an interesting sight for anyone who visits this spot.
+        \n\nAdding to the garden\'s beauty is the comforting view of the vash Arabian sea.
+        \n\nWatching the sunset from the Hanging gardens would provide you with an experience worth remembering.
+        \n\nThe striking flower, clock situated in the center of the garden, serves as the main attraction for all tourists.
+    </string>
+    <string name="hang_things">
+        One can spend an entire day exploring the natural beauty of these terraced gardens.
+        \n\nYou can also watch a glorious sunset from these gardens.
+        \n\nIf photography is your hobby,then Hanging gardens is the best place for you to make use of your creative
+        photography skills.
+        \n\nHanging Gardent is the perfect place for early morning jogs and yoga.
+    </string>
+    <string name="hang_timings">
+        5 am to 9 pm Weekdays and Weekends
+    </string>
+    <string name="hang_entry">
+        No entry fee
+    </string>
+    <string name="hang_best_time">
+        Its open throughout the year, and can be visited anytime of the year
+    </string>
+
+    <string name="kamla_details">
+        Situated on top of the Mumbai\'s Malbar Hill, this park is named after Jawarlal Nehru\'s wife, Kamala Nehru.
+        \n\nFrom this garden, one can enjoy the spectacular sight of the Chowpatty Beach and also Marine Drive(Queen\'s Necklace)/
+        \n\nKamala Nehru Park is a show shaped structure ,with widespread lush greenery.
+    </string>
+    <string name="kamla_things">
+        People come here to enjoy the lovely view of the Girgaum Chowpatty beach which is quite close to Kamala Nehru Park.
+        \n\One can also enjoy the panoramic views of marine drive from the park particularly at sunset.
+        \n\nSituated atop a hill, this park attracts beautiful birds during monsoon.
+        \n\nKamala Nehru Park is famous for a unique structure called the Old Women\'s shoe or Boot House, that famously is fun
+        for kids.
+    </string>
+    <string name="kamla_timings">
+        5 am to 9 pm Weekdays and Weekends
+    </string>
+    <string name="kamla_entry">
+        No entry fee
+    </string>
+    <string name="kamla_best_time">
+        Open throughout the year and can be visited any time.
+    </string>
+
+    <string name="jija_details">
+        Jijamata Udyan formerly called as "Ranichi Bagh" after the orignal British name Victoria Gardens, and now
+        also known as Veermata Jijabai Bhonsle Udyan,is a zoo and garden located at Byculla, in the heart of Mumbai, India.
+        \n\nJijamata udyan is full of lush green trees and famous for the species of birds and animals easily seen once
+        you enter Jijamata udyan.
+        \n\nWith the green trees is a botanical garden in the pathway inside the zoo flower plants, herb plants and other new species
+        of plants.
+    </string>
+    <string name="jija_things">
+        One can visit the different gardens inside the zoo like zoo botanical garden, Tactile garden, Medicinal Garden.
+        \n\nPeople can see various animalsa around them.
+    </string>
+    <string name="jija_timings">
+        9 am to 6 pm Thursday to Tuesday
+        \n Closed on Wednesday
+    </string>
+    <string name="jija_entry">
+         5 Rupees for Adults.
+        \n2 Rupees for Children.
+    </string>
+    <string name="jija_best_time">
+        The park is open throughout the year and can be visited anyime except on wednesdays.
+    </string>
+
+    <string name="sgnp_details">
+        The park enthralls its visitors with its mesmerizing fauna and flora
+        \n\nThe presence of 2400 year old Kanheri caves carved out from rock cliffs,in its premises is another added attraction
+        of this place.
+        \n\nThe gorgeous sight of the lakes, rivers,valleys and hills provide an in-depth theraputic effect on body and mind.
+    </string>
+    <string name="sgnp_things">
+        Every visitor who comes here enjoys the great panorama of the lush greenery with a ramarkable collection of
+        birds,butterflies and various kinds of fauna including the wild leopard.
+        \n\nOne would find a varied collection of wild animals including Bonnet and Rhesus monkeys, Indian Hare, Sambar deer,
+        Gray Lungur, Chital, Macaque and many more.
+        \n\nAnother major attractions of this place is presence of Atlas Moth, world\'s largest moth.Karvi an exotic variety of flora
+        is also found here which blossoms only once in eight years.
+        \n\nAuthorities of the park also arranged tiger and lion safari which attracts about 2 million tourists every year.
+        \n\nThe thich cover of the dense forest is home to different types of plants and trees including khair, kusum ,teak, bamboo
+        and many others.
+    </string>
+    <string name="sgnp_timings">
+        7 am to 6.30 pm Tuesday to Sunday
+        \nClosed on Monday
+    </string>
+    <string name="sgnp_entry">
+        <b>Entry Fees</b>
+        \n33 Rupees per Adult.
+        \n\n<b>Boat rides</b>
+        \nBoating timings 9.30 am to 5.30 pm
+        \n33 Rupees per person for 2 seater boat.
+        \n66 Rupees per person for 4 seater boat.
+        \n\n<b>Lion and Tiger Safari</b>
+        \nSafari timings 9 am to 12.30 pm
+        \nand 2 pm to 4.30 pm
+        \n55 Rupees for Adult.
+        \n22 Rupees for Child.
+        \n\n<b>Kanheri Caves</b>
+        \nKanheri caves timings 9 am to 5 pm
+        \nRupees 5 for Adult.
+
+    </string>
+    <string name="sgnp_best_time">
+        The National park can be visited any time of the year.
+    </string>
+
+
+</resources>

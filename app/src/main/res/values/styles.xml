@@ -1,0 +1,31 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="actionBarStyle">@style/TourGuideBarStyle</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+    <style name="TourGuideBarStyle" parent="style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+        <!-- Remove the shadow below the app bar -->
+        <item name="elevation">0dp</item>
+    </style>
+
+    <style name="myCustomTabLayout" parent="Widget.Design.TabLayout">
+        <item name="tabIndicatorColor">@color/colorAccent</item>
+        <item name="tabSelectedTextColor">#FFFFFF</item>
+        <item name="tabIndicatorHeight">2dp</item>
+        <item name="tabTextAppearance">@style/tabText</item>
+    </style>
+
+    <style name="tabText" parent="TextAppearance.Design.Tab">
+        <item name="android:textColor">#B2FFFFFF</item>
+        <item name="android:textSize">12dp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+</resources>
